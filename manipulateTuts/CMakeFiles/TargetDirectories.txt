@@ -1,3 +1,0 @@
-/Users/iflatinbrovoll/Documents/NTNU/Sommerjobb19/openCV_tutorials/manipulateTuts/CMakeFiles/rebuild_cache.dir
-/Users/iflatinbrovoll/Documents/NTNU/Sommerjobb19/openCV_tutorials/manipulateTuts/CMakeFiles/edit_cache.dir
-/Users/iflatinbrovoll/Documents/NTNU/Sommerjobb19/openCV_tutorials/manipulateTuts/CMakeFiles/changeImage.dir
