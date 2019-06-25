@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/loadAndDisplay.dir/loadAndDisplay.cpp.o"
-  "loadAndDisplay"
   "loadAndDisplay.pdb"
+  "loadAndDisplay"
 )
 
 # Per-language clean rules from dependency scanning.
